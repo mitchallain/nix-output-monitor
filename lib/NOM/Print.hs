@@ -78,16 +78,16 @@ down = "↓"
 up = "↑"
 
 -- | U+23F1 STOPWATCH
-clock = "⏱"
+clock = "⌛"
 
 -- | U+23F5 BLACK MEDIUM RIGHT-POINTING TRIANGLE
-running = "⏵"
+running = ""
 
 -- | U+2714 HEAVY CHECK MARK
 done = "✔"
 
 -- | U+23F8 DOUBLE VERTICAL BAR
-todo = "⏸"
+todo = ""
 
 -- | U+26A0 WARNING SIGN
 warning = "⚠"
